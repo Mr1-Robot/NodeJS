@@ -1,0 +1,65 @@
+2024-07-06 21:35:07 PM	69e7a561-a308-45cb-a309-fd4104eaed93	Error: Not allowed by CORS.
+2024-07-06 21:35:16 PM	5fd96913-b92f-44ce-8206-a184d9875b05	Error: Not allowed by CORS.
+2024-07-06 21:43:24 PM	8e42ce5f-c6ac-4b4c-8825-574209205529	Error: req is not defined
+2024-07-06 21:55:44 PM	dceca91a-5ac3-465b-a6c8-2912afd266be	Error: Not allowed by CORS.
+2024-07-06 21:56:31 PM	d83a2853-8cd0-4dc1-ba0d-80996b6184f6	Error: Not allowed by CORS.
+2024-07-06 21:57:00 PM	764706ee-4041-4942-8106-1006eb8ff990	Error: Not allowed by CORS.
+2024-07-06 22:11:19 PM	4d936554-34ca-4b35-9e1e-f0aa0deb315b	Error: ENOENT: no such file or directory, stat '/Users/muammar.jsx/Desktop/VsCode/Personal/NodeJS/tut-07/utils/views/404.html'
+2024-07-06 22:18:48 PM	d1b6fae3-bbf9-4ace-a2fc-0ea920968534	Error: path argument is required to res.sendFile
+2024-07-06 22:19:24 PM	b922074e-cdea-48c0-b100-732d51602644	Error: path must be absolute or specify root to res.sendFile
+2024-07-06 22:24:20 PM	7672c31b-3a00-447b-9f17-70a10ac3dffc	Error: ENOENT: no such file or directory, stat '/Users/muammar.jsx/Desktop/VsCode/Personal/NodeJS/tut-07/views/sub-dir/index.html'
+2024-07-06 22:24:47 PM	3895e3c4-4bcb-4f6c-bcde-6e02c9d439f7	Error: path must be absolute or specify root to res.sendFile
+2024-07-07 07:01:58 AM	b6d60acc-4773-45b0-939a-7a928786a72a	Error: Cannot read properties of undefined (reading 'username')
+2024-07-07 07:02:25 AM	60e00aaf-4e68-4a90-a981-5a17a3a9de23	Error: req.body?.at is not a function
+2024-07-07 07:03:18 AM	c129c181-1eda-446b-9b70-d2a9b89844a3	Error: Unexpected token ']', ..."tsx"
+  },
+]" is not valid JSON
+2024-07-07 07:46:57 AM	7e01866a-7e7a-4a9b-81d8-68f5717378a6	Error: Expected double-quoted property name in JSON at position 46 (line 4 column 1)
+2024-07-09 06:58:35 AM	c817836b-aa42-4105-a007-b51d98781698	Error: Expected double-quoted property name in JSON at position 13 (line 2 column 1)
+2024-07-09 07:25:47 AM	dab5dc9a-71d3-419e-b8d3-4685d8b75fd8	Error: Not allowed by cors.
+2024-07-09 07:25:48 AM	f4b3a1e2-ff0c-4b46-a77b-d3ae30549b67	Error: Not allowed by cors.
+2024-07-09 07:53:33 AM	08336009-ba2a-49a0-91c6-17aa9445317c	Error: Expected double-quoted property name in JSON at position 30 (line 3 column 1)
+2024-07-09 07:53:37 AM	efd05ed5-c1b8-418a-8a56-fa4dcf0d868a	Error: Cannot set headers after they are sent to the client
+2024-07-09 08:11:47 AM	f3e89f00-9a38-4b4b-bf86-f7f7d10faf0c	Error: Cannot set headers after they are sent to the client
+2024-07-09 08:12:44 AM	fa73565a-f79b-4d72-8bec-43b6abe64d89	Error: Cannot set headers after they are sent to the client
+2024-08-19 19:44:09 PM	37ab295a-5b23-4ae7-a0ec-91504f761687	Error: undefined is not a function
+2024-08-19 19:44:09 PM	e78739bf-3ea7-4c9e-9bbd-f7a8fa6d6ed8	Error: undefined is not a function
+2024-08-19 19:53:09 PM	bbdece60-c4b5-4ca5-b4f9-535af347fb66	Error: undefined is not a function
+2024-08-19 19:53:09 PM	b9ec0f6e-c41c-4854-81af-8cc23ccd79b2	Error: undefined is not a function
+2024-08-19 19:53:24 PM	1778943e-56f8-4d40-9384-2ff5c3517743	Error: undefined is not a function
+2024-08-19 19:53:24 PM	aca23e71-3778-44a1-a731-86f7052d21ae	Error: undefined is not a function
+2024-08-19 19:53:32 PM	6701a6b4-15ff-444d-b04f-bc3aca59497e	Error: undefined is not a function
+2024-08-19 19:53:32 PM	de4cb6c4-2831-4630-b1c0-ac6432c9c42e	Error: undefined is not a function
+2024-08-19 19:53:35 PM	8cf31397-0d75-4745-8f3a-fba7666c421e	Error: undefined is not a function
+2024-08-19 19:53:35 PM	8eaef40c-7a93-4061-9b0d-1f93916ed7c3	Error: undefined is not a function
+2024-08-19 19:54:47 PM	e66aa828-9c1d-4be7-9f77-92ac50702b6e	Error: undefined is not a function
+2024-08-19 19:54:47 PM	b31dcbaa-49b0-43f9-a56f-2ceddc48aec2	Error: undefined is not a function
+2024-08-19 19:54:50 PM	de17abfa-4dde-4912-8ec4-33218f1a5d9b	Error: undefined is not a function
+2024-08-19 19:54:50 PM	44e94ab2-d457-4ddb-8113-f8ac56da74b6	Error: undefined is not a function
+2024-08-19 19:55:02 PM	d65d6820-3566-4807-b7f2-a4506666b9b3	Error: undefined is not a function
+2024-08-19 19:55:02 PM	855a0052-6d6e-4f5e-8e70-da7bdc2865b4	Error: undefined is not a function
+2024-08-19 19:55:30 PM	e5931960-4b2d-4f5e-818f-2b562465f587	Error: undefined is not a function
+2024-08-19 19:55:30 PM	1bcdb79b-9fc8-43a6-ad15-9e89049cfc95	Error: undefined is not a function
+2024-08-19 19:55:47 PM	8efb6c43-0f9a-41ae-820f-6c0c32e3dc57	Error: undefined is not a function
+2024-08-19 19:55:47 PM	046e87fc-d2aa-4aca-8c6b-f61093d91748	Error: undefined is not a function
+2024-08-19 19:57:40 PM	bdc72642-b487-499d-810d-0f4354090267	Error: undefined is not a function
+2024-08-19 19:57:40 PM	79c40141-924c-47c3-8aff-8276df4f39b7	Error: undefined is not a function
+2024-08-19 19:57:56 PM	995394cb-00e2-4bd6-bc07-d34674e44414	Error: undefined is not a function
+2024-08-19 19:57:56 PM	542709ea-d1da-4207-95bd-4b2749b15e3b	Error: undefined is not a function
+2024-08-19 19:58:48 PM	52e54c8b-2491-414f-bfe7-d25576d7cefc	Error: undefined is not a function
+2024-08-19 19:58:48 PM	37bca492-9c27-4a1b-b887-441b66c85a76	Error: undefined is not a function
+2024-08-19 19:58:50 PM	7ebedaf8-9349-4d62-b310-b1c21930f5dd	Error: undefined is not a function
+2024-08-19 19:58:50 PM	57a7dd8b-3993-4459-840d-3011bac14edb	Error: undefined is not a function
+2024-08-19 19:59:52 PM	cae1d525-d428-479b-9173-d3d855783b5b	Error: undefined is not a function
+2024-08-19 20:00:09 PM	fb41fe7f-5aa9-4d58-bc2e-79e656e46ff9	Error: undefined is not a function
+2024-08-19 20:00:33 PM	3ccc7821-c9d2-4383-a4c0-66c63f091638	Error: undefined is not a function
+2024-08-19 20:01:17 PM	0e420db3-538d-45ab-8943-3d7eb0568747	Error: undefined is not a function
+2024-08-19 20:01:17 PM	b489008b-2c5f-4143-8d06-8a957c36176f	Error: undefined is not a function
+2024-08-19 20:01:31 PM	92c7e780-feb8-4d74-9e0c-7e8c40422e64	Error: undefined is not a function
+2024-08-19 20:01:50 PM	3657f99b-e7c9-4997-a1ca-d1c8fc0a22f0	Error: undefined is not a function
+2024-08-19 20:14:00 PM	1439e132-4471-42e3-bd5c-36a801f87603	Error: Not allowed by cors.
+2024-08-19 20:15:43 PM	9af671da-e349-4697-8990-aa9211166cfa	Error: Not allowed by cors.
+2024-08-19 20:15:47 PM	25307232-6c8e-4b9c-8122-64a4c51a566f	Error: Not allowed by cors.
+2024-08-19 20:16:07 PM	b2ef0c68-8a5e-4a0b-9d35-697afa7ae7e2	Error: Not allowed by cors.
+2024-08-19 20:16:11 PM	4fe2b172-025b-4687-acdf-f54ca64771a8	Error: Not allowed by cors.
+2024-08-19 20:17:02 PM	a0d9ed11-2fc6-4109-a216-71eb87db9ed6	Error: Not allowed by cors.

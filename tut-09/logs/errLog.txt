@@ -1,0 +1,24 @@
+2024-07-06 21:35:07 PM	69e7a561-a308-45cb-a309-fd4104eaed93	Error: Not allowed by CORS.
+2024-07-06 21:35:16 PM	5fd96913-b92f-44ce-8206-a184d9875b05	Error: Not allowed by CORS.
+2024-07-06 21:43:24 PM	8e42ce5f-c6ac-4b4c-8825-574209205529	Error: req is not defined
+2024-07-06 21:55:44 PM	dceca91a-5ac3-465b-a6c8-2912afd266be	Error: Not allowed by CORS.
+2024-07-06 21:56:31 PM	d83a2853-8cd0-4dc1-ba0d-80996b6184f6	Error: Not allowed by CORS.
+2024-07-06 21:57:00 PM	764706ee-4041-4942-8106-1006eb8ff990	Error: Not allowed by CORS.
+2024-07-06 22:11:19 PM	4d936554-34ca-4b35-9e1e-f0aa0deb315b	Error: ENOENT: no such file or directory, stat '/Users/muammar.jsx/Desktop/VsCode/Personal/NodeJS/tut-07/utils/views/404.html'
+2024-07-06 22:18:48 PM	d1b6fae3-bbf9-4ace-a2fc-0ea920968534	Error: path argument is required to res.sendFile
+2024-07-06 22:19:24 PM	b922074e-cdea-48c0-b100-732d51602644	Error: path must be absolute or specify root to res.sendFile
+2024-07-06 22:24:20 PM	7672c31b-3a00-447b-9f17-70a10ac3dffc	Error: ENOENT: no such file or directory, stat '/Users/muammar.jsx/Desktop/VsCode/Personal/NodeJS/tut-07/views/sub-dir/index.html'
+2024-07-06 22:24:47 PM	3895e3c4-4bcb-4f6c-bcde-6e02c9d439f7	Error: path must be absolute or specify root to res.sendFile
+2024-07-07 07:01:58 AM	b6d60acc-4773-45b0-939a-7a928786a72a	Error: Cannot read properties of undefined (reading 'username')
+2024-07-07 07:02:25 AM	60e00aaf-4e68-4a90-a981-5a17a3a9de23	Error: req.body?.at is not a function
+2024-07-07 07:03:18 AM	c129c181-1eda-446b-9b70-d2a9b89844a3	Error: Unexpected token ']', ..."tsx"
+  },
+]" is not valid JSON
+2024-07-07 07:46:57 AM	7e01866a-7e7a-4a9b-81d8-68f5717378a6	Error: Expected double-quoted property name in JSON at position 46 (line 4 column 1)
+2024-07-09 06:58:35 AM	c817836b-aa42-4105-a007-b51d98781698	Error: Expected double-quoted property name in JSON at position 13 (line 2 column 1)
+2024-07-09 07:25:47 AM	dab5dc9a-71d3-419e-b8d3-4685d8b75fd8	Error: Not allowed by cors.
+2024-07-09 07:25:48 AM	f4b3a1e2-ff0c-4b46-a77b-d3ae30549b67	Error: Not allowed by cors.
+2024-07-09 07:53:33 AM	08336009-ba2a-49a0-91c6-17aa9445317c	Error: Expected double-quoted property name in JSON at position 30 (line 3 column 1)
+2024-07-09 07:53:37 AM	efd05ed5-c1b8-418a-8a56-fa4dcf0d868a	Error: Cannot set headers after they are sent to the client
+2024-07-09 08:11:47 AM	f3e89f00-9a38-4b4b-bf86-f7f7d10faf0c	Error: Cannot set headers after they are sent to the client
+2024-07-09 08:12:44 AM	fa73565a-f79b-4d72-8bec-43b6abe64d89	Error: Cannot set headers after they are sent to the client
