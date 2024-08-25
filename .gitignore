@@ -10,6 +10,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# .env
+.env
+
 # Logs
 logs
 *.log
@@ -17,6 +20,7 @@ logs
 
 # Optional npm cache directory
 .npm
+
 
 # IDE settings (optional)
 .vscode/
